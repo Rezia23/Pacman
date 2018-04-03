@@ -1,0 +1,11 @@
+What should the game include:
+- welcome screen (where optionally choice of multiple levels of difficulty)
+- moving sprite, direction changed by arrow keys
+- obstacles, which must sprite avoid
+- items, which sprite picks up and earns points
+- score counter on screen
+- optionally: 
+	- enemy sprites
+	- best score chart
+	- time measure
+	- sounds
